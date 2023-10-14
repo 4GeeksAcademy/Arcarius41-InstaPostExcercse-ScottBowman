@@ -28,11 +28,9 @@ body{
 p {
     margin: 10px;
 }
-post-icons.div{
-    width: 20px;
-    line-height: normal;
-}
-div.fa-light fa-heart{
+
+div.i.fa-light fa-heart{
     width: 30px;
     height: 30px;
+    
 }
