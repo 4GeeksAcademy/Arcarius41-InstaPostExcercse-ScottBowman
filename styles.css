@@ -1,0 +1,38 @@
+head{
+    background-color: black;
+}
+div {
+    
+    background-color: white;
+}
+div.post-header{
+    display: flex;
+    
+}
+div.post-icons {
+    display: flex;
+    margin: 10px;
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    display: inline-block;
+    background-color: black;
+    width: 320px;
+    margin-left: 250px;
+    border-radius: 40px;
+    padding: 35px;
+}
+p {
+    margin: 10px;
+}
+post-icons.div{
+    width: 20px;
+    line-height: normal;
+}
+div.fa-light fa-heart{
+    width: 30px;
+    height: 30px;
+}
